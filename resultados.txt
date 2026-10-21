@@ -1,6 +1,6 @@
 Ventas totales de la compañía: $69253.78
 
-Ventas totales de Martillo grande : $8742.25
+Ventas totales de Martillo grande: $8742.25
 Ventas totales de Serrucho: $4462.92
 Ventas totales de Llave inglesa: $2347.28
 Ventas totales de Juego de raches: $6456.56
@@ -112,7 +112,7 @@ December: $22000.04
 
 Ventas mensuales por cada producto:
 October:
-  Martillo grande : $2904.00
+  Martillo grande: $2904.00
   Serrucho: $1518.00
   Llave inglesa: $737.49
   Juego de raches: $2296.80
@@ -123,7 +123,7 @@ October:
   Manguera flexible: $3210.30
   Lámpara LED: $978.40
 November:
-  Martillo grande : $3297.25
+  Martillo grande: $3297.25
   Serrucho: $1366.20
   Llave inglesa: $705.77
   Juego de raches: $1862.96
@@ -134,7 +134,7 @@ November:
   Manguera flexible: $3352.98
   Lámpara LED: $1039.55
 December:
-  Martillo grande : $2541.00
+  Martillo grande: $2541.00
   Serrucho: $1578.72
   Llave inglesa: $904.02
   Juego de raches: $2296.80
@@ -154,7 +154,7 @@ Producto menos vendido: Juego de raches
   Total vendido: $6456.56
 
 Histograma de porcentajes de ventas por producto en el trimestre:
-Martillo grande  (12.62%): ************
+Martillo grande (12.62%): ************
 Serrucho (6.44%): ******
 Llave inglesa (3.39%): ***
 Juego de raches (9.32%): *********
