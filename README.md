@@ -25,6 +25,10 @@ El objetivo principal de este proyecto es demostrar cómo estructurar un softwar
 
 ```
 Proyecto_FundamentosProgramacion/
+├── docs/                            # Documentación técnica y funcional extendida
+│   ├── arquitectura.md              # Diagramas de flujo y decisiones de diseño
+│   ├── diccionario_datos.md         # Especificación y formatos de los archivos CSV
+│   └── manual_usuario.md            # Guía interactiva y preguntas frecuentes
 ├── datos.py                         # Carga, lectura y validación de archivos CSV
 ├── calculos.py                      # Funciones matemáticas y estadísticas puras
 ├── main.py                          # Menú interactivo, consola y exportación
@@ -36,6 +40,15 @@ Proyecto_FundamentosProgramacion/
 ├── Woker.py                         # Alias de compatibilidad hacia atrás
 └── .gitignore                       # Exclusión de archivos temporales y cachés
 ```
+
+---
+
+## 📚 Documentación Detallada
+
+Para profundizar en cada aspecto del proyecto, consultá las guías dedicadas:
+- 📖 [**Manual de Usuario**](docs/manual_usuario.md): Instrucciones paso a paso, ejemplos de pantalla y resolución de problemas.
+- 🏛️ [**Documento de Arquitectura**](docs/arquitectura.md): Diagramas Mermaid de flujo de datos, modularización y comparativa técnica.
+- 🗄️ [**Diccionario de Datos**](docs/diccionario_datos.md): Especificación de columnas, tipos de datos, restricciones y ejemplos de los CSVs.
 
 ---
 
